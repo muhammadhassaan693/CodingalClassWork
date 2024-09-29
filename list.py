@@ -1,4 +1,4 @@
-mylist=[7,9,"apple",3.5,"pineapple"] #list with multipul data types
+mylist=[7,9,"apple",3.5,"pineapple", False] #list with multipul data types
 
 print(mylist)
 print("first element of my list= ",mylist[0])

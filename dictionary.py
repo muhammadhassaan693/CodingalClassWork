@@ -7,3 +7,22 @@ print(mydictionary)
 
 #accessing the data using the key
 print(mydictionary[2])
+print(mydictionary.get(2))
+
+#dictionary with mixed keys
+people={
+    "name":"muhammad",
+    "origin": "Pakistan",
+    "age":26,
+    3:"antalya"
+}
+
+print()
+print(people["age"])
+print(people)
+
+print()
+
+#adding new item
+people["country"]="turkey"
+print(people)
