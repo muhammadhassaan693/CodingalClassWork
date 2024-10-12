@@ -33,3 +33,24 @@ books = library(
 "Let's Upskill")
 
 userName=input("please enter your name: ")
+
+while True:
+    print(f"hello {userName} welcome to the library please chosse an opction")
+    print("1.display book")
+    print("2.lend book")
+    print("3.at a book")
+    print("4.quit")
+
+    userchoice=int(input("enter your choice to continue = "))
+
+    if userchoice == 1:
+        books.displayBooks()
+    elif userchoice == 2:
+        bookname = input("enter the book name you want borrow = ")
+        books.lendBook(userName,bookname)
+    elif userchoice == 3:
+        bookname = input("enter the the book name you want to add = ")
+        books.addBook()
+    elif userchoice == 4:
+        print("thank you for using the library goodbey")
+        break
