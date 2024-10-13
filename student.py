@@ -11,3 +11,8 @@ class student(person):
     def __init__(self, fn, ln, year):
         super().__init__(fn, ln)
         self.graduation_year=year
+
+#creating the object
+x = student("muhammad", "hassan", 2025)
+x.print_name()
+print(f"graduation year = {x.graduation_year}")
