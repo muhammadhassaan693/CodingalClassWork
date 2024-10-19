@@ -1,0 +1,4 @@
+file in the write mode
+ hello nice to meet you 
+ 
+ this is new content and we combined it with the privious content
