@@ -1,0 +1,5 @@
+Hello world
+I have coding class on Saturday and Sunday
+I learn Python
+I love Python
+Goodbye

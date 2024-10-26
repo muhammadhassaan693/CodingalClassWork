@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 file in the write mode
  hello nice to meet you 
  
+=======
+file in the write mode
+ hello nice to meet you 
+ 
+>>>>>>> 02f91c365eeab9cb87ad1fa9bed3b63f8a07bd30
  this is new content and we combined it with the privious content
