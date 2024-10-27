@@ -13,3 +13,7 @@ else:
 #delet file drinks.txt if it is existing
 if os.path.exists("drinks.txt"):
     os.remove("drinks.txt")
+
+#delet folder if it is existing
+if os.path.exists("sample_folder"):
+    os.rmdir("sample_folder")

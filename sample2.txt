@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 good morning
 My name is hassan
+=======
+good morning
+My name is hassan
+>>>>>>> 62c900b124e1b51f7a08f1cba9b2516d41e0d998
 today is sunday it's weekend
