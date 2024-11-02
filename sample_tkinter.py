@@ -11,5 +11,11 @@ greeting_label.pack() #putingthe lable in the window
 
 text_input = Entry(width=30)
 text_input.pack()
-w.mainloop()
 
+
+
+
+
+
+
+w.mainloop()

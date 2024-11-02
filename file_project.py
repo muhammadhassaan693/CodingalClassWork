@@ -58,3 +58,8 @@ print(file.readline())
 print(file.readline())
 print(file.readline())
 file.close()
+
+#opening the file in the append mode
+file =open("sample4.txt","a")
+file.write("\ntoday is november the second ")
+file.close()
