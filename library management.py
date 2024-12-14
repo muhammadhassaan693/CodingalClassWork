@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class library:
     def __init__(self, list_of_book, nm):
         #initializing the variable or fethure in this class
@@ -55,7 +54,7 @@ while True:
     elif userchoice == 4:
         print("thank you for using the library goodbey")
         break
-=======
+
 class library:
     def __init__(self, list_of_book, nm):
         #initializing the variable or fethure in this class
@@ -112,4 +111,3 @@ while True:
     elif userchoice == 4:
         print("thank you for using the library goodbey")
         break
->>>>>>> 8b0bc7541257b35bde0d0789d3512f52684d99c1
